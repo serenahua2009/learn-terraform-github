@@ -6,7 +6,7 @@ on:
 env:
   TF_CLOUD_ORGANIZATION: "QuyenHuaWorkspace"
   TF_API_TOKEN: "${{ secrets.TF_API_TOKEN }}"
-  TF_WORKSPACE: "learn-terraform-github"
+  TF_WORKSPACE: "test-terraform-github"
   CONFIG_DIRECTORY: "./"
 
 jobs:
